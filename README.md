@@ -1,2 +1,2 @@
-# Zuri-Frontend-Week03-MyPortfolio
-This is my portfolio
+# Responsive portfolio
+This is my first portfolio webpage, still work in progress
